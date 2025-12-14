@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I make bring value out of data. Currently the Head of Data&AI Solutions Hub at Bank Vontobel AG. I'm an entrepreneur, with more than a decade of experience designing scalable, reliable and cost-effective data solutions behind my back. Besides my pure developer duties, I build my own products and services and advocate for a strong culture among peers through my writing or as a speaker at various events. 
+I bring value out of data. Currently the Head of Data&AI Solutions Hub at Bank Vontobel AG. I'm an entrepreneur, with more than a decade of experience designing scalable, reliable and cost-effective data solutions behind my back. Besides my pure developer duties, I build my own products and services and advocate for a strong culture among peers through my writing or as a speaker at various events. 
 
 Being a genuinely curious individual, I always keep an eye on challenging problems I could help solve. I’d love to hear from you if yours is one of those. Want to get in touch? No problem! Please have a look on my [website](https://www.barkar.ch) for the most up to date ways of contacting me.  I am also on [LinkedIn](https://www.linkedin.com/in/sbarkar/).
